@@ -48,9 +48,10 @@ h4 {
 }
 
 .med {
-  width: 203.5%;
+  width: 200%;
+  height: 200%;
 }
 
 .large {
-  width: 303%;
+  width: 300%;
 }
